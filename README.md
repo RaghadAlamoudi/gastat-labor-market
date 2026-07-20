@@ -119,6 +119,6 @@ Python · pandas · openpyxl · Plotly · Jupyter Notebook
 4. Run `02_analyze.ipynb` top to bottom — this produces all charts and analysis
 
 **Data sources:**
-- GASTAT: [Statistical Reports](https://www.stats.gov.sa/en/814)
+- GASTAT: [Statistical Reports](https://www.stats.gov.sa/en/statistics-tabs?tab=436312&category=417515)
 - GOSI: [Open Data Portal](https://www.gosi.gov.sa/ar/StatisticsAndData/OpenedData/download)
 - KAPSARC: [Labor Market Administrative Records](https://datasource.kapsarc.org/explore/assets/labor-market-administrative-records-data/)
