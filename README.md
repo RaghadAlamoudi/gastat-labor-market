@@ -97,11 +97,21 @@ and Nitaqat compliance costs — none of which are captured in this dataset.
 
 ---
 
-## Power BI Dashboard (In Progress)
+## Power BI Dashboard
 
-An interactive Power BI dashboard is being built on top of the extracted CSVs,
-covering employment trends, sector splits, wage gaps, and the GOSI cross-validation
-in a format designed for non-technical stakeholders.
+An interactive Power BI dashboard built on top of the extracted CSVs across 4 analysis pages.
+
+### Overview
+![Overview](screenshots/overview.png)
+
+### Employment & Sector
+![Employment](screenshots/employment.png)
+
+### Wages & Occupation
+![Wages & Occupation](screenshots/wages_occupation.png)
+
+### GOSI Cross-Validation
+![GOSI Cross-Validation](screenshots/gosi_validation.png)
 
 ---
 
