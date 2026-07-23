@@ -121,6 +121,11 @@ Python · pandas · openpyxl · Plotly · Jupyter Notebook
 
 ---
 
+## View the Analysis
+
+[![Open in nbviewer](https://img.shields.io/badge/Jupyter-nbviewer-orange)](https://nbviewer.org/github/RaghadAlamoudi/gastat-labor-market/blob/main/notebooks/02_analyze.ipynb)
+
+
 ## Running the Project
 
 1. Place the 20 GASTAT quarterly Excel files in `data/raw/`
